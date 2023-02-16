@@ -16,4 +16,3 @@ future
 requests
 pandas
 seaborn
-sklearn
