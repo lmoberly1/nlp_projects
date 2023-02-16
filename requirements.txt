@@ -1,0 +1,19 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+tensorflow
+transformers
+spacy
+nltk
+gensim
+scikit-learn
+scipy
+numpy
+h5py
+h5py
+tqdm
+six
+future
+requests
+pandas
+seaborn
+sklearn
